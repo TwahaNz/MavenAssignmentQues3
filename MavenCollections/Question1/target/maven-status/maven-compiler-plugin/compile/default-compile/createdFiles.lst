@@ -1,0 +1,5 @@
+com/tnz/app/domain/Contacts.class
+com/tnz/app/domain/Numbers.class
+com/tnz/app/test/App.class
+com/tnz/app/domain/Student.class
+com/tnz/app/Implements/IStudent.class
